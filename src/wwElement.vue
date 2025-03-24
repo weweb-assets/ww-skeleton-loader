@@ -29,7 +29,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .skeleton-loader {
     position: relative;
     overflow: hidden;
